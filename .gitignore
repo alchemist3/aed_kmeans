@@ -52,5 +52,4 @@ fabric.properties
 *.pdf
 *.docx
 *.png
-*.txt
-*.arff
+
